@@ -1,0 +1,31 @@
+html {
+	min-width: 250px;
+	overflow-x: hidden; /* Required to hide horizontal scroll on Firefox */
+	background-color: #000;
+}
+
+body {
+	color: #fff;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+td {
+	padding: 4px;
+}
+
+tr:first-child > td {
+	padding: 4px 4px 8px;
+	border-bottom: 1px solid #333;
+}
+
+tr:nth-child(2) > td {
+	padding: 8px 4px 4px;
+}
+
+tr:nth-child(2) > td:first-child {
+	text-align: end;
+}

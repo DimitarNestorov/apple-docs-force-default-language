@@ -1,0 +1,25 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Options</title>
+<link rel="stylesheet" href="chrome://global/skin/in-content/common.css">
+<link rel="stylesheet" href="options.css">
+
+<form id="options-form" class="detail-view-container">
+	<table>
+		<tr>
+			<td></td>
+			<td><input type="checkbox" name="enabled" aria-label="Enabled"> Enabled</td>
+		</tr>
+		<tr>
+			<td>Language:</td>
+			<td><input type="radio" name="language" value="objc" aria-label="Objective-C"> Objective-C</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><input type="radio" name="language" value="swift" aria-label="Swift"> Swift</td>
+		</tr>
+	</table>
+</form>
+
+<script src="browser-polyfill.min.js"></script>
+<script src="options.js"></script>

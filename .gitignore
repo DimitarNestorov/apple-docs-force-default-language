@@ -1,0 +1,4 @@
+node_modules
+distribution
+.DS_Store
+web-ext-artifacts/
