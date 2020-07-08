@@ -4,7 +4,15 @@ Automatically redirect to your preferred language from the Apple docs.
 
 ## How to install
 
+Google Chrome: https://chrome.google.com/webstore/detail/apple-docs-force-default/hknflkbaoljcfdedkkdccacgnfpglcfp
+
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/apple-docs-force-default-lang/
+
+### For Opera users
+
+<p align="center"><img src=".github/Opera extensions entry.png" alt="Opera extensions entry" width="719"></p>
+
+If you want this extension to work while using Google or other search engines you need to enable "Allow access to search page results" from View -> Show Extensions (⇧⌘E).
 
 ## License
 
