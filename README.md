@@ -8,6 +8,8 @@ Google Chrome: https://chrome.google.com/webstore/detail/apple-docs-force-defaul
 
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/apple-docs-force-default-lang/
 
+Microsoft Edge: https://microsoftedge.microsoft.com/addons/detail/apple-docs-force-default-/hnhbajaebhpjpkoikfldjjmgemjdobgm
+
 ### For Opera users
 
 <p align="center"><img src=".github/Opera extensions entry.png" alt="Opera extensions entry" width="719"></p>
