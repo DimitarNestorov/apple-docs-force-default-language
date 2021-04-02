@@ -5796,11 +5796,6 @@ type-detect@^4.0.8:
   resolved "https://registry.yarnpkg.com/type-detect/-/type-detect-4.0.8.tgz#7646fb5f18871cfbb7749e69bd39a6388eb7450c"
   integrity sha512-0fr/mIH1dlO+x7TlcMy+bIDqKPsw/70tVyeHW787goQjhmqaZe10uwLujubK9q9Lg6Fiho1KUKDYz0Z7k7g5/g==
 
-type-fest@^0.5.2:
-  version "0.5.2"
-  resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-0.5.2.tgz#d6ef42a0356c6cd45f49485c3b6281fc148e48a2"
-  integrity sha512-DWkS49EQKVX//Tbupb9TFa19c7+MK1XmzkrZUR8TAktmE/DizXoaoJV6TZ/tSIPXipqNiRI6CyAe7x69Jb6RSw==
-
 type-fest@^0.8.1:
   version "0.8.1"
   resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-0.8.1.tgz#09e249ebde851d3b1e48d27c105444667f17b83d"
@@ -6071,18 +6066,17 @@ web-ext@^4.1.0, web-ext@^4.3.0:
     yargs "15.3.1"
     zip-dir "1.0.2"
 
-webext-detect-page@^0.9.1:
-  version "0.9.1"
-  resolved "https://registry.yarnpkg.com/webext-detect-page/-/webext-detect-page-0.9.1.tgz#e1bf9b69ebf8553711aaed1a4c05f42c84604022"
-  integrity sha512-/QoN7CIlobiTqilq721l5cpROBJxbkwCc6UE6KeH+xLZReAgSRyM0Q9r2T0SC+wX8HoNnFKrMDNYGYsq/SgJ4w==
+webext-detect-page@^2.0.5:
+  version "2.0.6"
+  resolved "https://registry.yarnpkg.com/webext-detect-page/-/webext-detect-page-2.0.6.tgz#dbad250de3b8e82cf694e684741d00e5ac5587ef"
+  integrity sha512-IGpAHdsHz9mwpT8nHyzbdVz1ArUnsRf3PNGMprk3MgEtyN+jhcV4JqkOjNiKIb3k9sZ4WKY4lCxi5MtV1MuTYg==
 
-webext-options-sync@^0.21.2:
-  version "0.21.2"
-  resolved "https://registry.yarnpkg.com/webext-options-sync/-/webext-options-sync-0.21.2.tgz#e8991fa5656c6140a402fbdb3ccdb8daac5d9df4"
-  integrity sha512-fk5PAcw4zU3KN07lGjhcEe54Q1E219XpYmc6+oX4hApxZwEkeBHPpyvjAmjjgYIqVWXslJgTzd8Rpgtj8mSemA==
+webext-options-sync@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/webext-options-sync/-/webext-options-sync-2.0.1.tgz#4e00b624113be913f5691f1490b0f9542f998016"
+  integrity sha512-y7px8AfTrAMcIRxYcGEu2UVAj18C0H0SYNiF9orD9+p3Q8/r6wbUH0B/OU4g7v6DmvhNtg5XEO1ZUEr+XfYqCA==
   dependencies:
-    type-fest "^0.5.2"
-    webext-detect-page "^0.9.1"
+    webext-detect-page "^2.0.5"
 
 webextension-polyfill@^0.4.0:
   version "0.4.0"
