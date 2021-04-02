@@ -21,6 +21,6 @@
 	},
 	"dependencies": {
 		"webext-options-sync": "^0.21.2",
-		"webextension-polyfill": "^0.4.0"
+		"webextension-polyfill": "^0.7.0"
 	}
 }
