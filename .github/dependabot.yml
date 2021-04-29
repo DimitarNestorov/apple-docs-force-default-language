@@ -1,0 +1,20 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "09:00"
+    timezone: Europe/Sofia
+  open-pull-requests-limit: 99
+  versioning-strategy: increase
+  ignore:
+  - dependency-name: web-ext
+    versions:
+    - 6.0.0
+  - dependency-name: web-ext-submit
+    versions:
+    - 6.0.0
+  - dependency-name: webextension-polyfill
+    versions:
+    - 0.7.0
