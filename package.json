@@ -20,7 +20,7 @@
 		"webpack-cli": "^3.3.6"
 	},
 	"dependencies": {
-		"webext-options-sync": "^0.21.2",
+		"webext-options-sync": "^2.0.1",
 		"webextension-polyfill": "^0.4.0"
 	}
 }
